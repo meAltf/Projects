@@ -6,6 +6,11 @@ Meals-App
 -> You can search about any Meals see the deatils about that meal.
 -> You can also add it into favourite list
 
+------------------------------
+Hosted Link
+------------------------------
+https://mealtf.github.io/Meals-App/
+
 ------------------------
 Language used :-
 -----------------------
