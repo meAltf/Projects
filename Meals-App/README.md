@@ -12,7 +12,7 @@ Hosted Link
 https://mealtf.github.io/Meals-App/
 
 ------------------------
-Language used :-
+Language used :- 
 -----------------------
 
 Html, CSS and JavaScript
